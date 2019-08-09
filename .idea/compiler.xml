@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="tdd-java-crash-Lab3" />
         <module name="tdd-java-crash-Lab2" />
         <module name="tdd-java-crash-Lab1" />
       </profile>
@@ -13,6 +14,7 @@
     <bytecodeTargetLevel>
       <module name="tdd-java-crash-Lab1" target="12" />
       <module name="tdd-java-crash-Lab2" target="1.5" />
+      <module name="tdd-java-crash-Lab3" target="12" />
     </bytecodeTargetLevel>
   </component>
 </project>
