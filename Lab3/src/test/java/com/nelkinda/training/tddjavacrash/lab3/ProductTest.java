@@ -1,5 +1,5 @@
 package com.nelkinda.training.tddjavacrash.lab3;
 
-public class ProductTest {
+class ProductTest {
     // TODO Product Test (Multiplication)
 }

@@ -2,6 +2,7 @@ package com.nelkinda.training.tddjavacrash.lab3;
 
 import org.junit.jupiter.api.Test;
 
+import static com.nelkinda.training.tddjavacrash.lab3.Sum.sum;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class SumTest {
