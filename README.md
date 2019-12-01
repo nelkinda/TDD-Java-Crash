@@ -5,9 +5,9 @@ This Git repository contains the examples and exercises of the following Nelkind
 
 ## Questions/Contact
 * [E-Mail: training@nelkinda.com](mailto:training@nelkinda.com)
-* [Nelkinda Website](http://nelkinda.com/)
-* [Nelkinda Training](http://nelkinda.com/training/)
-* [Nelkinda Training: TDD (Test-Driven Development) in Java/JUnit Crash Course](http://nelkinda.com/training/TDD-Java-Crash/)
+* [Nelkinda Website](https://nelkinda.com/)
+* [Nelkinda Training](https://nelkinda.com/training/)
+* [Nelkinda Training: TDD (Test-Driven Development) in Java/JUnit Crash Course](https://nelkinda.com/training/TDD-Java-Crash/)
 * [Twitter](https://twitter.com/nelkinda)
 * [Facebook](https://www.facebook.com/nelkinda/)
 * [LinkedIn](https://www.linkedin.com/company/nelkinda/)
