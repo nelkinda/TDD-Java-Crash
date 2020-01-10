@@ -3,8 +3,8 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.nelkinda.training.tdd-java-crash</groupId>
-    <artifactId>tdd-java-crash-Lab3</artifactId>
+    <groupId>com.nelkinda.training.tddjavacrash</groupId>
+    <artifactId>tdd-java-crash-Lab4</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>
