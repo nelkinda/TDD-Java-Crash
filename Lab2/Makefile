@@ -1,6 +1,10 @@
 .PHONY: all
 all: ./mvnw
-	./mvnw verify
+	./mvnw -B -q verify
 
 ./mvnw:
-	mvn -N io.takari:maven:0.7.6:wrapper
+	mvn -q -N io.takari:maven:0.7.7:wrapper
+
+-include User.mk
+-include ../User.mk
+-include ~/User.mk
