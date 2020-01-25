@@ -6,15 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Lab5-Params" />
         <module name="tdd-java-crash-Lab4" />
         <module name="tdd-java-crash-Lab3" />
         <module name="tdd-java-crash-Lab2" />
         <module name="tdd-java-crash-Lab1" />
-        <module name="Lab5-Params" />
+        <module name="Lab6-BDD" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Lab5-Params" target="13" />
+      <module name="Lab6-BDD" target="13" />
       <module name="tdd-java-crash-Lab1" target="13" />
       <module name="tdd-java-crash-Lab2" target="1.5" />
       <module name="tdd-java-crash-Lab3" target="13" />

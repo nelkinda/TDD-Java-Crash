@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lab5-Params/Lab5-Params.iml" filepath="$PROJECT_DIR$/Lab5-Params/Lab5-Params.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab6-BDD/Lab6-BDD.iml" filepath="$PROJECT_DIR$/Lab6-BDD/Lab6-BDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TDD-Java-Crash.iml" filepath="$PROJECT_DIR$/.idea/TDD-Java-Crash.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab1/tdd-java-crash-Lab1.iml" filepath="$PROJECT_DIR$/Lab1/tdd-java-crash-Lab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab2/tdd-java-crash-Lab2.iml" filepath="$PROJECT_DIR$/Lab2/tdd-java-crash-Lab2.iml" />

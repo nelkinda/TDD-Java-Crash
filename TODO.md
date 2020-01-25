@@ -1,0 +1,22 @@
+# TODO
+- Testing Spring
+- Comparison JUnit 3, JUnit 4, JUnit 5, TestNG
+- Test hierarchies with TestNG
+- Using JUnit with UI Automation like Selenium or Appium
+- Using Junit with API Automation like RestAssured
+- Cucumber
+    - Dependency Injection for Cucumber with PicoContainer, Spring, Guice, OpenEJB, Weld, Needle
+    - Cucumber Tags
+    - Cucumber Parameter Types, Custom Types
+    - Optional Text
+    - Hooks
+    - Using Cucumber with UI Automation like Selenium or Appium
+    - Using Cucumber with API Automation like RestAssured
+- test && commit || revert exercise
+- Mutation Testing with Pitest
+- Mocking
+    - Ontology of Test Doubles
+    - Mockito
+    - EasyMock
+    - PowerMock
+    - London vs Chicago
