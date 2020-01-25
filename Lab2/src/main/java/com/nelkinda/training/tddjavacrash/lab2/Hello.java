@@ -7,6 +7,6 @@ public class Hello {
 
     // TODO Remove private
     private static String getMessage() {
-        return "Hello, World!";
+        return ""; // TODO Insert text
     }
 }

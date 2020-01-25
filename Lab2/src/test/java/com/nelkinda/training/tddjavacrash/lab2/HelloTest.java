@@ -4,10 +4,10 @@ package com.nelkinda.training.tddjavacrash.lab2;
 // TODO: Add Import for assertEquals
 
 class HelloTest {
-    @Test
+    // TODO: Add @Test annotation
     void testHello() {
         final String expected = "Hello, world!";
         final String actual = Hello.getMessage();
-        assertEquals(expected, actual);
+        /*TODO insert assertion method(expected, actual);*/
     }
 }

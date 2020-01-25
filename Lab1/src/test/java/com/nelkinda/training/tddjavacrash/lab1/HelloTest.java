@@ -13,12 +13,11 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class HelloTest {
 
-    private PrintStream originalStdout;
+    private static final PrintStream originalStdout = System.out;
     private ByteArrayOutputStream interceptedStdout;
 
     @BeforeEach
     void interceptStdout() {
-        originalStdout = System.out;
         interceptedStdout = new ByteArrayOutputStream();
         System.setOut(new PrintStream(interceptedStdout));
     }
