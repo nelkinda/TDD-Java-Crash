@@ -6,7 +6,7 @@ import org.junit.jupiter.params.provider.ValueSource;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class PalindromeTest {
+class PalindromeTest {
     @ParameterizedTest
     @ValueSource(strings = {"", "a", "mom", "noon", "racecar", "Don't nod", "I did, did I?", "Red rum, sir, is murder."})
     void testPalindrome(final String palindrome) {

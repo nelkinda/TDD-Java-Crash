@@ -8,7 +8,9 @@
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- TODO Add properties to use Java 13 -->
+        <!-- TODO Add property to select JUnit Version -->
     </properties>
 
     <dependencies>
